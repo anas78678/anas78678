@@ -50,8 +50,8 @@
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <!-- GitHub Streak Stats (Hosted on a different, more reliable server) -->
-  <img src="https://streak-stats.demolab.com?user=anas78678&theme=react&hide_border=true&background=0D1117" alt="Anas's GitHub Streak" />
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=anas78678&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <br>
