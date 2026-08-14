@@ -12,12 +12,14 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 I'm currently pursuing my **BCA (3rd Year)** at Vivek College of Education.
-- 💼 Completed an **Android Development Internship** at Codec Technologies.
-- 🚀 Focused on building modern web applications and secure Android utility apps (like *E-GatePass*).
-- 💡 I leverage AI tools to rapidly prototype and integrate React JS, TypeScript, and Tailwind CSS codebases.
-- 🌱 Currently expanding my knowledge in scalable Progressive Web Apps (PWAs) and Supabase.
+### 👨‍💻 Professional Summary
+A dedicated **Software Developer** specializing in Android application development and modern web technologies. I blend strong academic foundations with practical internship experience to build secure, scalable, and user-centric applications.
+
+- 🎓 **Education:** Pursuing my **BCA (3rd Year)** at Vivek College of Education.
+- 💼 **Experience:** Completed an intensive **Android Development Internship** at Codec Technologies.
+- 🚀 **Focus:** Architecting reliable utility apps (like *E-GatePass*) and responsive Progressive Web Apps (PWAs).
+- 💡 **Approach:** Leveraging modern tools and AI to rapidly prototype, build, and deploy optimized codebases.
+- 🌱 **Currently Learning:** Deepening my knowledge in Data Structures & Algorithms, Backend Integrations, and system design.
 
 ---
 
@@ -25,6 +27,8 @@
 
 **Languages:**<br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C (DSA)](https://img.shields.io/badge/C_(with_DSA)-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![XML](https://img.shields.io/badge/XML-%23FF6600.svg?style=for-the-badge&logo=xml&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -47,16 +51,8 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 Profile Activity
 
 <div align="center">
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=anas78678&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
-
-<br>
-
-<div align="center">
-  <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=anas78678&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
